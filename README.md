@@ -1,4 +1,4 @@
-# javascript-for-myself
+# Javascript-for-myself
 
 <br/>
 AUTHOR - AMMAR JAWED
